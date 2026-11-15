@@ -1,0 +1,5 @@
+{
+  "name": "claude-theme",
+  "owner": { "name": "jessicaefficiencychoice" },
+  "plugins": [{ "name": "efficiency-choice-theme", "source": "./" }]
+}
